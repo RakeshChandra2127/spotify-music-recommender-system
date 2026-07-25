@@ -218,5 +218,3 @@ This project is licensed under the MIT License.
 **Rakesh Chandra Behera**
 
 GitHub: https://github.com/RakeshChandra2127
-
-LinkedIn: *(Add your LinkedIn profile here.)*
